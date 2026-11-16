@@ -15,7 +15,7 @@ The PDFs are tagged for accessibility (PDF/UA), with real headings, table header
 
 All six are also on one web page: [Screen Reader Cheat Sheets](https://www.usablepatterns.net/2026/11/13/screen-reader-cheat-sheets/). That page also explains how to test the Windows screen readers on a Mac for free.
 
-Last checked November 2026. Screen readers change with every release. If a command has changed or I have one wrong, please [open an issue](https://github.com/sundiverdb/Portfolio-images/issues).
+Last checked November 2026. Screen readers change with every release. If a command has changed or I have one wrong, please [open an issue](https://github.com/sundiverdb/dwb-site-assets/issues).
 
 ## License
 

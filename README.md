@@ -1,6 +1,6 @@
-# Portfolio images
+# DWB site assets
 
-Web-ready images for startide.net, usablepatterns.net and becomingux.com.
+Web-ready images and downloadable resources for startide.net, usablepatterns.net and becomingux.com.
 
 This repo is public so WordPress can copy images from it. Only put images here
 that are fine for anyone to see. No client data, no member data, no names other
